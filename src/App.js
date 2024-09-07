@@ -14,18 +14,18 @@ function App() {
       <BrowserRouter>
 
         <Routes>
-          <Route path="/" element={<Luffy />} />
-          <Route path="/zoro" element={<Zoro />} />
-          <Route path="/sanji" element={<Sanji />} />
-          <Route path="/nami" element={<Nami />} />
-          <Route path="/ussop" element={<Ussop />} />
+          <Route path="/onepiece_page/luffy" element={<Luffy />} />
+          <Route path="/onepiece_page/zoro" element={<Zoro />} />
+          <Route path="/onepiece_page/sanji" element={<Sanji />} />
+          <Route path="/onepiece_page/nami" element={<Nami />} />
+          <Route path="/onepiece_page/ussop" element={<Ussop />} />
         </Routes>
         <div>
-         <i className='btn'> <Link to='/'>Luffy</Link></i>
-         <i className='btn'> <Link to='zoro'>Zoro</Link></i>
-         <i className='btn'> <Link to='sanji'>Sanji</Link></i>
-         <i className='btn'> <Link to='nami'>Nami</Link></i>
-         <i className='btn'> <Link to='ussop'>Ussop</Link></i>
+         <i className='btn'> <Link to='onepiece_page/luffy'>Luffy</Link></i>
+         <i className='btn'> <Link to='onepiece_page/zoro'>Zoro</Link></i>
+         <i className='btn'> <Link to='onepiece_page/sanji'>Sanji</Link></i>
+         <i className='btn'> <Link to='onepiece_page/nami'>Nami</Link></i>
+         <i className='btn'> <Link to='onepiece_page/ussop'>Ussop</Link></i>
 
         </div>
       </BrowserRouter>
