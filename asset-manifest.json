@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/onepiece_page/static/css/main.c0b18297.css",
-    "main.js": "/onepiece_page/static/js/main.3ff3f49f.js",
+    "main.js": "/onepiece_page/static/js/main.b358b206.js",
     "static/js/453.fa10767c.chunk.js": "/onepiece_page/static/js/453.fa10767c.chunk.js",
     "index.html": "/onepiece_page/index.html",
     "main.c0b18297.css.map": "/onepiece_page/static/css/main.c0b18297.css.map",
-    "main.3ff3f49f.js.map": "/onepiece_page/static/js/main.3ff3f49f.js.map",
+    "main.b358b206.js.map": "/onepiece_page/static/js/main.b358b206.js.map",
     "453.fa10767c.chunk.js.map": "/onepiece_page/static/js/453.fa10767c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0b18297.css",
-    "static/js/main.3ff3f49f.js"
+    "static/js/main.b358b206.js"
   ]
 }
